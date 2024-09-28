@@ -1,0 +1,12 @@
+# Add your WiFi and Telegram configs in this file and then rename this file to "my_config.py"
+
+wifi_config = {
+    "ssid": "INSERT_SSID_HERE",
+    "pass": "INSERT PASSWORD HERE"
+}
+
+telegram_config  = {
+    "token":    "ADD BOT TOKEN HERE",
+    "chat_id":  "ADD CHAT ID HERE",
+    "text":     "ADD THE MESSAGE THAT THE BOT SHALL SEND HERE"
+}

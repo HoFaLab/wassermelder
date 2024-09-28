@@ -1,0 +1,3 @@
+[submodule "firmware/utelegram"]
+	path = firmware/utelegram
+	url = https://github.com/jordiprats/micropython-utelegram.git
